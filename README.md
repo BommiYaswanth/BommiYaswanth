@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Bommi Yaswanth
 
 🎓 B.Tech Computer Science student at ICFAI Foundation for Higher Education (2022–2026)  
-💻 Passionate about building web solutions with PHP, MySQL, and WordPress  
-🚀 Currently applying for the Associate Software Engineer role at rtCamp  
+💻 Passionate about building web solutions with PHP, MySQL, and WordPress   
 📍 Based in Hyderabad, India
 
 ---
